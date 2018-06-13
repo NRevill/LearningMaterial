@@ -1,0 +1,7 @@
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\bin\Debug\VirusScan.exe.config
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\bin\Debug\VirusScan.exe
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\bin\Debug\VirusScan.pdb
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\obj\Debug\VirusScan.csprojResolveAssemblyReference.cache
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\obj\Debug\VirusScan.csproj.CoreCompileInputs.cache
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\obj\Debug\VirusScan.exe
+C:\Users\Zenon\source\repos\VirusScan\VirusScan\obj\Debug\VirusScan.pdb
