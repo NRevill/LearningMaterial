@@ -1,0 +1,7 @@
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\bin\Debug\FunctionCaller.exe.config
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\bin\Debug\FunctionCaller.exe
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\bin\Debug\FunctionCaller.pdb
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\obj\Debug\FunctionCaller.csprojResolveAssemblyReference.cache
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\obj\Debug\FunctionCaller.csproj.CoreCompileInputs.cache
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\obj\Debug\FunctionCaller.exe
+C:\Users\Zenon\source\repos\FunctionCaller\FunctionCaller\obj\Debug\FunctionCaller.pdb
